@@ -2,3 +2,4 @@ C:\Users\bjmorris2\Source\Repos\DynamicModules\src\bin\Debug\VTX.Core.dll
 C:\Users\bjmorris2\Source\Repos\DynamicModules\src\bin\Debug\VTX.Core.pdb
 C:\Users\bjmorris2\Source\Repos\DynamicModules\src\DM.Core\obj\Debug\VTX.Core.dll
 C:\Users\bjmorris2\Source\Repos\DynamicModules\src\DM.Core\obj\Debug\VTX.Core.pdb
+C:\Users\bjmorris2\Source\Repos\DynamicModules\src\DM.Core\obj\Debug\VTX.Core.csprojResolveAssemblyReference.cache
