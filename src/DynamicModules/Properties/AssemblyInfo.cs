@@ -7,12 +7,12 @@ using System.Windows;
 // La información general de un ensamblado se controla mediante el siguiente 
 // conjunto de atributos. Cambie estos valores de atributo para modificar la información
 // asociada con un ensamblado.
-[assembly: AssemblyTitle("Dynamic Modules")]
-[assembly: AssemblyDescription("Dynamic Modules in WPF with Prism and the Modern UI for WPF toolkit")]
+[assembly: AssemblyTitle("VTX Base Framework")]
+[assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Rubén Hinojosa Chapel")]
-[assembly: AssemblyProduct("Dynamic Modules")]
-[assembly: AssemblyCopyright("Copyright ©  2016  by Rubén Hinojosa Chapel")]
+[assembly: AssemblyCompany("")]
+[assembly: AssemblyProduct("VTX Base Framework")]
+[assembly: AssemblyCopyright("Copyright ©  2017 VTX.  Based upon work by Rubén Hinojosa Chapel")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

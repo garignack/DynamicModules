@@ -1,17 +1,17 @@
 ﻿using System;
 using FirstFloor.ModernUI.Windows.Controls;
 using FirstFloor.ModernUI.Presentation;
-using DM.Demo.Constants;
-using DM.Demo.Views;
+using VTX.Base.Constants;
+using VTX.Base.Views;
 
-namespace DM.Demo
+namespace VTX.Base
 {
     public partial class Shell : ModernWindow
     {
         public Shell()
         {
             InitializeComponent();
-            AppearanceManager.Current.ThemeSource = new Uri(ThemesPath.DM, UriKind.Relative);
+            AppearanceManager.Current.ThemeSource = new Uri(ThemesPath.DarkGeometry, UriKind.Relative);
         }
 
         public void AddLinkGroups(LinkGroupCollection linkGroupCollection)

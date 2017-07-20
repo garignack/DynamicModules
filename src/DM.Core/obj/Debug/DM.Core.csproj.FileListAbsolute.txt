@@ -1,0 +1,5 @@
+C:\Users\bjmorris2\Source\Repos\DynamicModules\src\bin\Debug\DM.Core.dll
+C:\Users\bjmorris2\Source\Repos\DynamicModules\src\bin\Debug\DM.Core.pdb
+C:\Users\bjmorris2\Source\Repos\DynamicModules\src\DM.Core\obj\Debug\DM.Core.csprojResolveAssemblyReference.cache
+C:\Users\bjmorris2\Source\Repos\DynamicModules\src\DM.Core\obj\Debug\DM.Core.dll
+C:\Users\bjmorris2\Source\Repos\DynamicModules\src\DM.Core\obj\Debug\DM.Core.pdb

@@ -5,9 +5,9 @@ using Microsoft.Practices.Unity;
 using Prism.Modularity;
 using Prism.Unity;
 using FirstFloor.ModernUI.Presentation;
-using DM.Core.Interfaces;
+using VTX.Core.Interfaces;
 
-namespace DM.Demo
+namespace VTX.Base
 {
     class Bootstrapper : UnityBootstrapper
     {

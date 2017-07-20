@@ -1,9 +1,9 @@
 ﻿using System;
 using FirstFloor.ModernUI.Presentation;
-using DM.Core.Interfaces;
-using DM.ModuleTwo.Views;
+using VTX.Core.Interfaces;
+using VTX.ModuleTwo.Views;
 
-namespace DM.ModuleTwo.Services
+namespace VTX.ModuleTwo.Services
 {
     /// <summary>
     /// Creates a LinkGroup

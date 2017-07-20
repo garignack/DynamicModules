@@ -2,7 +2,7 @@
 using Microsoft.Practices.Unity;
 using Prism.Modularity;
 
-namespace DM.ModuleOne
+namespace VTX.ModuleOne
 {
     public class ModuleOne : IModule
     {

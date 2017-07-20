@@ -5,9 +5,9 @@ using System.Windows;
 using System.Windows.Media;
 using Prism.Mvvm;
 using FirstFloor.ModernUI.Presentation;
-using DM.Demo.Constants;
+using VTX.Base.Constants;
 
-namespace DM.Demo.ViewModels
+namespace VTX.Base.ViewModels
 {
     /// <summary>
     /// A simple view model for configuring theme, font and accent colors.
@@ -58,6 +58,7 @@ namespace DM.Demo.ViewModels
             this.themes.Add(new Link { DisplayName = "dark", Source = new Uri(ThemesPath.Dark, UriKind.Relative) });
             this.themes.Add(new Link { DisplayName = "light bing image", Source = new Uri(ThemesPath.LightBingImage, UriKind.Relative) });
             this.themes.Add(new Link { DisplayName = "dark bing image", Source = new Uri(ThemesPath.DarkBingImage, UriKind.Relative) });
+            this.themes.Add(new Link { DisplayName = "Dark Geometry", Source = new Uri(ThemesPath.DarkGeometry, UriKind.Relative) });
             this.themes.Add(new Link { DisplayName = "windows 10", Source = new Uri(ThemesPath.Windows10, UriKind.Relative) });
             this.themes.Add(new Link { DisplayName = "mac osx", Source = new Uri(ThemesPath.MacOSX, UriKind.Relative) });
 

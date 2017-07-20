@@ -1,9 +1,9 @@
 ﻿using System;
 using FirstFloor.ModernUI.Presentation;
-using DM.Core.Interfaces;
-using DM.ModuleOne.Views;
+using VTX.Core.Interfaces;
+using VTX.ModuleOne.Views;
 
-namespace DM.ModuleOne.Services
+namespace VTX.ModuleOne.Services
 {
     /// <summary>
     /// Creates a LinkGroup
@@ -24,7 +24,7 @@ namespace DM.ModuleOne.Services
             linkGroup.Links.Add(new Link
             {
                 DisplayName = "Module One",
-                Source = new Uri($"/DM.ModuleOne;component/Views/{nameof(MainView)}.xaml", UriKind.Relative)
+                Source = new Uri($"/VTX.ModuleOne;component/Views/{nameof(MainView)}.xaml", UriKind.Relative)
             });
 
             return linkGroup;

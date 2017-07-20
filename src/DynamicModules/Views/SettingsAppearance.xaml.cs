@@ -13,9 +13,9 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 using FirstFloor.ModernUI.Presentation;
-using DM.Demo.ViewModels;
+using VTX.Base.ViewModels;
 
-namespace DM.Demo.Views
+namespace VTX.Base.Views
 {
     /// <summary>
     /// Interaction logic for SettingsAppearance.xaml

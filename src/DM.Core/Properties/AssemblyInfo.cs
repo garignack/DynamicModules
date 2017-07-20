@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // La información general de un ensamblado se controla mediante el siguiente 
 // conjunto de atributos. Cambie estos valores de atributo para modificar la información
 // asociada con un ensamblado.
-[assembly: AssemblyTitle("DM.Core")]
+[assembly: AssemblyTitle("VTX.Core")]
 [assembly: AssemblyDescription("Core module")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Rubén Hinojosa Chapel")]
-[assembly: AssemblyProduct("Dynamic Modules")]
-[assembly: AssemblyCopyright("Copyright ©  2016  by Rubén Hinojosa Chapel")]
+[assembly: AssemblyCompany("")]
+[assembly: AssemblyProduct("VTX Core Module")]
+[assembly: AssemblyCopyright("Copyright ©  2017 VTX.  Based upon work by Rubén Hinojosa Chapel")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

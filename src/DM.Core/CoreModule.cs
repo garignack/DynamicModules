@@ -1,9 +1,9 @@
 ﻿using System;
 using Microsoft.Practices.Unity;
 using Prism.Modularity;
-using DM.Core.Services;
+using VTX.Core.Services;
 
-namespace DM.Core
+namespace VTX.Core
 {
     public class CoreModule : IModule
     {

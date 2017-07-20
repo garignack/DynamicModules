@@ -1,6 +1,6 @@
 ﻿using FirstFloor.ModernUI.Presentation;
 
-namespace DM.Core.Interfaces
+namespace VTX.Core.Interfaces
 {
     public interface ILinkGroupService
     {

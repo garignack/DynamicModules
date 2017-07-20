@@ -1,10 +1,10 @@
 ﻿using System.Collections.ObjectModel;
 using System.Linq;
 using Prism.Mvvm;
-using DM.Core.Model;
-using DM.Core.Services;
+using VTX.Core.Model;
+using VTX.Core.Services;
 
-namespace DM.ModuleOne.ViewModels
+namespace VTX.ModuleOne.ViewModels
 {
     public class DataGridViewModel : BindableBase
     {

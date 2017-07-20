@@ -1,6 +1,6 @@
 ﻿using System.Windows.Controls;
 
-namespace DM.ModuleOne.Views
+namespace VTX.ModuleOne.Views
 {
     /// <summary>
     /// Interaction logic for LoremIpsum1.xaml

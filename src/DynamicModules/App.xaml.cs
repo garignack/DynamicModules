@@ -1,6 +1,6 @@
 ﻿using System.Windows;
 
-namespace DM.Demo
+namespace VTX.Base
 {
     public partial class App : Application
     {

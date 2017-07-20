@@ -1,0 +1,17 @@
+C:\Users\bjmorris2\Source\Repos\DynamicModules\src\bin\Debug\DM.ModuleTwo.dll
+C:\Users\bjmorris2\Source\Repos\DynamicModules\src\bin\Debug\DM.ModuleTwo.pdb
+C:\Users\bjmorris2\Source\Repos\DynamicModules\src\DM.ModuleTwo\obj\Debug\Views\DataGrid.baml
+C:\Users\bjmorris2\Source\Repos\DynamicModules\src\DM.ModuleTwo\obj\Debug\Views\LoremIpsum1.baml
+C:\Users\bjmorris2\Source\Repos\DynamicModules\src\DM.ModuleTwo\obj\Debug\Views\LoremIpsum2.baml
+C:\Users\bjmorris2\Source\Repos\DynamicModules\src\DM.ModuleTwo\obj\Debug\Views\MainView.baml
+C:\Users\bjmorris2\Source\Repos\DynamicModules\src\DM.ModuleTwo\obj\Debug\Views\DataGrid.g.cs
+C:\Users\bjmorris2\Source\Repos\DynamicModules\src\DM.ModuleTwo\obj\Debug\Views\LoremIpsum1.g.cs
+C:\Users\bjmorris2\Source\Repos\DynamicModules\src\DM.ModuleTwo\obj\Debug\Views\LoremIpsum2.g.cs
+C:\Users\bjmorris2\Source\Repos\DynamicModules\src\DM.ModuleTwo\obj\Debug\Views\MainView.g.cs
+C:\Users\bjmorris2\Source\Repos\DynamicModules\src\DM.ModuleTwo\obj\Debug\DM.ModuleTwo_MarkupCompile.cache
+C:\Users\bjmorris2\Source\Repos\DynamicModules\src\DM.ModuleTwo\obj\Debug\DM.ModuleTwo.g.resources
+C:\Users\bjmorris2\Source\Repos\DynamicModules\src\DM.ModuleTwo\obj\Debug\DM.ModuleTwo.Properties.Resources.resources
+C:\Users\bjmorris2\Source\Repos\DynamicModules\src\DM.ModuleTwo\obj\Debug\DM.ModuleTwo.csproj.GenerateResource.Cache
+C:\Users\bjmorris2\Source\Repos\DynamicModules\src\DM.ModuleTwo\obj\Debug\DM.ModuleTwo.dll
+C:\Users\bjmorris2\Source\Repos\DynamicModules\src\DM.ModuleTwo\obj\Debug\DM.ModuleTwo.pdb
+C:\Users\bjmorris2\Source\Repos\DynamicModules\src\DM.ModuleTwo\obj\Debug\DM.ModuleTwo.csprojResolveAssemblyReference.cache

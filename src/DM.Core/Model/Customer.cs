@@ -1,4 +1,4 @@
-﻿namespace DM.Core.Model
+﻿namespace VTX.Core.Model
 {
     // taken from MSDN (http://msdn.microsoft.com/en-us/library/system.windows.controls.datagrid.aspx)
     public enum OrderStatus { None, New, Processing, Shipped, Received };

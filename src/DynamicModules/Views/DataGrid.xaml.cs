@@ -1,6 +1,6 @@
 ﻿using System.Windows.Controls;
 
-namespace DM.Demo.Views
+namespace VTX.Base.Views
 {
     /// <summary>
     /// Interaction logic for DataGrid.xaml

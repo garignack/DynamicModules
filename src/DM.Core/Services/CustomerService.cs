@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
-using DM.Core.Model;
+using VTX.Core.Model;
 
-namespace DM.Core.Services
+namespace VTX.Core.Services
 {
     public class CustomerService : ICustomerService
     {
